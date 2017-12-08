@@ -1,0 +1,30 @@
+Whats the name of the capital of Bangladesh?$A.Dhaka          B.Comilla $C.Chittagonj          D.Khulna #A.Dhaka.@A.Dhaka and B.Comilla!A.60%  B.25%  C.10%  D.15%
+&
+What is the name of our national animal?$A.Tiger          B.Duck$C.Chicken          D.Cat#A.Tiger.@A.Tiger and C.Chicken!A.52%  B.25%  C.18%  D.15%
+&
+When did Bangladesh got Victory?$A.31 December          B.26 March$C.21 February          D.16 December#D.16 December@A.31December and D.16 December!A.10%  B.25%  C.10%  D.65%
+&
+What is the National game of Bangladesh?$A. Cricket          B.Football$C.Hadodo          D.Bouche#C.Hadodo@A. Cricket and C.Hadodo !A.25%  B.25%  C.40%  D.10%
+&
+How is the distance between sun and mars?$A. 225.6Million Km          B.525.6Million Km$C.825.6Million Km          D.125.6Million Km#A. 225.6Million Km @A. 225.6Million Km  and D.125.6Million Km!A.60%  B.25%  C.10%  D.15%
+&
+Which fish cannot breed in the pond?$A.The Hillsha          B.The Boal $C.The Catla          D.The Selva #A.The Hillsha  @A.The Hillsha   and D.The Selva!A.60%  B.25%  C.10%  D.15%
+&
+How many times Dhaka become the Capital?$A.Two          B.Four$C.Three          D.One#B.Four@A.Two and B.Four!A.40%  B.25%  C.30%  D.15%
+&
+When Established "NAP"?$A.2000          B.1957 $C.1958          D.2001 #B.1957.@C.1958 and B.1957!A.40%  B.45%  C.10%  D.15%
+&
+Where is the TITASH gas field?$A.Noakhali          B.Dhaka$C.Comilla          D.Brahmanbaria#D.Brahmanbaria.@A.Noakhali and D.Brahmanbaria!A.30%  B.25%  C.10%  D.35%
+&
+Whats the name of capital of Oganda?$A.Delhi          B.Dhaka$C.Gampala          D.Newyourk#C.Gampala@A.Delhi and C.Gampala!A.10%  B.25%  C.60%  D.15%
+&
+For which invention three scientest got last NOVLE prize?$A.LED          B.FAT$C.TRANSISTOR          D.FAT32#A.LED@A.LED and D.FAT32!A.45%  B.35%  C.15%  D.15%
+&
+What is the working principal of AVACUS?$A. Store Data          B.Editing$C.Calculation          D.Programming#C.Calculation@C.Calculation and D.Programming!A.60%  B.25%  C.10%  D.15%
+&
+Which football player is faster?$A.Robben          B.Messi$C.Suarez          D.Deco#A.Robben @A.Robben  and B.Messi!A.60%  B.25%  C.10%  D.15%
+&
+What do You mean by GOOGLE?$A.10power100          B.20power200$C.100power10          D.10power10#A.10power100@A.10power100   and D.10power10!A.20%  B.35%  C.30%  D.15%
+&
+What is LinkingPark?$A.A band's Name          B.A Leaders Name$C.A Park's Name          D.A countries Name#A.A band's Name.@A and B!A.60%  B.25%  C.10%  D.15%
+&
